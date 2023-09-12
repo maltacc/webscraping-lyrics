@@ -1,5 +1,5 @@
 # Taylor Swift Lyric Scraper
-The goal of this project was to use absolutelyrics.com to retrieve, clean, and visualize data about Taylor Swift's songs. We then selected VADER and BERT models to perform sentiment analysis, where the BERT model achieved a 0.96% accuracy score.
+The goal of this project was to use absolutelyrics.com to retrieve, clean, and visualize data about Taylor Swift's songs. We then selected VADER and BERT models to perform sentiment analysis, where the BERT model achieved a 96% accuracy score.
 
 # Data 
 * We web-scraped 11 Taylor Swift albums from absolutelyrics.com. Although absolutelyrics.com has not been updated, it allowed web scraping. Alternate lyric websites blocked access even with a 20-second sleep time between requests.
